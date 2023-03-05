@@ -1,0 +1,5 @@
+# Exclude files with .txt extension
+*.gitignore.txt
+
+# Exclude directory named "node_modules"
+C:\Users\walid\source\repos\TP_MOD_03_1302213120_WalidHanifAtaullah
